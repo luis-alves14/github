@@ -9,4 +9,6 @@ Teste
 
 Informação nova
 
-Gostou do curso? Quer mais? Ajude com uma doação. Até um café é v
+Gostou do curso? Quer mais? Ajude com uma doação
+
+
